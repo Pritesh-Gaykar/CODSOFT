@@ -1,6 +1,7 @@
 # CODSOFT
 Hello, 
 This is My Codsoft Internship Offer letter 
+
 ![image](https://github.com/Pritesh-Gaykar/CODSOFT/assets/95903153/842d8424-39be-451f-9023-35c92dd6434e)
 
 I am writing to express my sincere gratitude for the incredible opportunity to be a part of your esteemed organization as a Data Science Intern. I am thrilled to share my positive experience and express my appreciation for the enriching internship program.
